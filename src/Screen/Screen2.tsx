@@ -13,7 +13,7 @@ const products: Product[] = [
   { name: 'monitor', precio: 120 }
 ];
 
-export const Screen2 = () => {
+export const Screen22 = () => {
   const calculateTotal = () => {
     let total = 0;
     for (let i = 0; i < products.length; i++) {
